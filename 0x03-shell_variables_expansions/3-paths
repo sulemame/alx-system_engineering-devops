@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH wc -l |3-paths
+PATH=$PATH:/action
