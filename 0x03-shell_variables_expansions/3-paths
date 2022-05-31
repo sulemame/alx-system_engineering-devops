@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH wc -l | 3-paths 
+PATH=$PATH:/3-paths
