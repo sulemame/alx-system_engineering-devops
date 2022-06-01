@@ -1,1 +1,1 @@
-my shell variable readme
+my first shell redirectio readme
